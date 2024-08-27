@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="false" />
+    <profile name="sbt 1" modules="SparkScalaCourse,spark_course_scala_9670" />
+  </component>
+</project>
